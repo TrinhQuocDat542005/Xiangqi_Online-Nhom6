@@ -1,4 +1,4 @@
-# Thư viện
+# import thư viện
 from flask import Flask, render_template, request
 import socket
 import json
